@@ -30,6 +30,13 @@ body {
     overflow-y: auto;
 	background-color: rgba(255, 255, 255, 0.5);
 }
+.deck-container .deckbuilder-image {
+    width: 90%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+}
 .filters {
     margin-bottom: 20px;
     display: grid;
