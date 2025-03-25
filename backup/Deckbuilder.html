@@ -1,92 +1,84 @@
 <!DOCTYPE html>
+
 <html lang="es">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>The Domain of the Duelist Deckbuilder</title>
-</head>
-
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+<link href="style.css" rel="stylesheet"/>
+<title>The Domain of the Duelist Deckbuilder</title>
+<meta content="width=device-width, initial-scale=1.0" name="viewport"/><link href="style 1.css" rel="stylesheet"/></head>
 <body>
-    <div class="container">
-        <div class="cards-container">
-            <div class="filters">
-                <select id="setFilter">
-                    <option value="">Every Set</option>
-                </select>
-                <select id="frameFilter">
-                    <option value="">Every Card Frame</option>
-                </select>
-            </div>
-            <div class="filters">
-                <input type="text" id="nameFilter" placeholder="Filter by card name">
-                <select id="attributeFilter">
-    <option value="">Every Attribute</option>
+<div class="container">
+<div class="cards-container">
+<div class="filters">
+<select id="setFilter">
+<option value="">Every Set</option>
 </select>
-                <input type="text" id="keywordFilter" placeholder="Filter by keyword">
-                <input type="text" id="typeFilter" placeholder="Filter by types">
-				<input type="text" id="DeckcostFilter" placeholder="Filter by Deckcost">
-            </div>
-            <div class="card-grid" id="cardGrid"></div>
-            <p id="limitMessage"></p>
-        </div>
-        <div class="deck-container">
-            <img src="./logo.png" alt="Domain of the Duelist Deckbuilder" class="deckbuilder-image">
-            <div class="deck-status" id="deckStatus">
-                <div class="import-export">
-                    <div class="button-group">
-                        <button class="button-alt" onclick="document.getElementById('fileInput').click()">Import Deck</button>
-                        <button class="button-alt" onclick="exportDeckJSON()">Export Deck</button>
-                    </div>
-                    <p id="importError">Error importing the deck</p>
-                </div>
-            </div>
-            <div class="deck-section">
-                <h4>Main Deck</h4>
-                <div id="deckListA"></div>
-            </div>
-            <div class="deck-section">
-                <h4>Extra Deck</h4>
-                <div id="deckListB"></div>
-            </div>
-			
-            <div class="deck-section">
-                <h4>Tokens</h4>
-                <div id="deckListC"></div>
-            </div>
-			<div class="deck-section">
-                <h4>FieldSpell</h4>
-                <div id="deckListD"></div>
-            </div>
-            <button class="button-warning" onclick="clearDeck()">Reset Decks</button>
-            <button class="button" onclick="showDeckPreview()">Preview</button>
-            <button class="button" onclick="saveDeck()">Save for TTS</button>
-            <div class="tooltip-container">
-                <div class="question-icon" role="img" aria-label="Help">?</div>
-                <div class="tooltip" role="tooltip">To import your deck in Tabletop Simulator press "Save for TTS" and save the file into your Steam Saved Objects folder, that is usually in Documents → My Games → Tabletop Simulator → Saves → Saved Objects. Then load the object from the game itself.</div>
-            </div>
-        </div>
-    </div>
-
-    <div class="preview-container" id="previewContainer">
-        <span class="close-preview" onclick="closePreview()">×</span>
-        <div class="preview-content">
-            <div class="preview-grid" id="previewGrid"></div>
-        </div>
-    </div>
-
-    <div id="cardPopup" class="card-popup" onclick="this.style.display='none'">
-        <img id="popupImage" src="" alt="Card preview">
-    </div>
-
-    <input type="file" id="fileInput" accept=".json" style="display: none;">
-
-    <!--DATA-->
-    <script src="data/LegendOfTheDuelist.js"></script>
-    
-
-    <script>
+<select id="frameFilter">
+<option value="">Every Card Frame</option>
+</select>
+</div>
+<div class="filters">
+<input id="nameFilter" placeholder="Filter by card name" type="text"/>
+<select id="attributeFilter">
+<option value="">Every Attribute</option>
+</select>
+<input id="keywordFilter" placeholder="Filter by keyword" type="text"/>
+<input id="typeFilter" placeholder="Filter by types" type="text"/>
+<input id="DeckcostFilter" placeholder="Filter by Deckcost" type="text"/>
+</div>
+<div class="card-grid" id="cardGrid"></div>
+<p id="limitMessage"></p>
+</div>
+<div class="deck-container">
+<img alt="Domain of the Duelist Deckbuilder" class="deckbuilder-image" src="./logo.png"/>
+<div class="deck-status" id="deckStatus">
+<div class="import-export">
+<div class="button-group">
+<button class="button-alt" onclick="document.getElementById('fileInput').click()">Import Deck</button>
+<button class="button-alt" onclick="exportDeckJSON()">Export Deck</button>
+</div>
+<p id="importError">Error importing the deck</p>
+</div>
+</div>
+<div class="deck-section">
+<h4>Main Deck</h4>
+<div id="deckListA"></div>
+</div>
+<div class="deck-section">
+<h4>Extra Deck</h4>
+<div id="deckListB"></div>
+</div>
+<div class="deck-section">
+<h4>Tokens</h4>
+<div id="deckListC"></div>
+</div>
+<div class="deck-section">
+<h4>FieldSpell</h4>
+<div id="deckListD"></div>
+</div>
+<button class="button-warning" onclick="clearDeck()">Reset Decks</button>
+<button class="button" onclick="showDeckPreview()">Preview</button>
+<button class="button" onclick="saveDeck()">Save for TTS</button>
+<div class="tooltip-container">
+<div aria-label="Help" class="question-icon" role="img">?</div>
+<div class="tooltip" role="tooltip">To import your deck in Tabletop Simulator press "Save for TTS" and save the file into your Steam Saved Objects folder, that is usually in Documents → My Games → Tabletop Simulator → Saves → Saved Objects. Then load the object from the game itself.</div>
+</div>
+</div>
+</div>
+<div class="preview-container" id="previewContainer">
+<span class="close-preview" onclick="closePreview()">×</span>
+<div class="preview-content">
+<div class="preview-grid" id="previewGrid"></div>
+</div>
+</div>
+<div class="card-popup" id="cardPopup" onclick="this.style.display='none'">
+<img alt="Card preview" id="popupImage" src=""/>
+</div>
+<input accept=".json" id="fileInput" style="display: none;" type="file"/>
+<!--DATA-->
+<script src="data/LegendOfTheDuelist.js"></script>
+<script>
         // Card and decks limits
         const CARD_DISPLAY_LIMIT = 500;
         const DECK_LIMITS = {
@@ -628,5 +620,4 @@ function renderDeck() {
 
     </script>
 </body>
-
 </html>
