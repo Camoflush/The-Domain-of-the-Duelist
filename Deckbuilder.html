@@ -6,7 +6,7 @@
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 <link href="style.css" rel="stylesheet"/>
 <title>The Domain of the Duelist Deckbuilder</title>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/><link href="style 1.css" rel="stylesheet"/></head>
+</head>
 <body>
 <div class="container">
 <div class="cards-container">
@@ -78,6 +78,8 @@
 <input accept=".json" id="fileInput" style="display: none;" type="file"/>
 <!--DATA-->
 <script src="data/LegendOfTheDuelist.js"></script>
+<script src="data/T1.js"></script>
+
 <script>
         // Card and decks limits
         const CARD_DISPLAY_LIMIT = 500;
@@ -614,6 +616,7 @@ function renderDeck() {
         const CARDS_DATABASE = {
             "cards": [
                 ...LegendOfTheDuelist.cards,
+				...Field_01.cards,
                 
             ]
         };
