@@ -9,18 +9,13 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column;
     z-index: 1000;
 }
 
 .intro video {
-    position: relative;
     width: 80%; /* Ändere die Breite des Videos */
     height: auto; /* Behalte das Seitenverhältnis bei */
-    z-index: -1;
-}
-
-.intro-content {
-    text-align: center;
 }
 
 .static {
@@ -31,6 +26,20 @@
     display: none;
 }
 
-.visible {
-    display: block; /* Ensure main content is visible */
+#mainContent {
+    display: none;
+}
+
+/* Neue CSS-Regeln für das Outro */
+.fade-out {
+    animation: fadeOut 3s forwards;
+}
+
+@keyframes fadeOut {
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
 }

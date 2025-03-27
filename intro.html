@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <title>Weiterleitung</title>
+    <link rel="stylesheet" href="intro.css">
+    <link rel="preload" href="background-image.jpg" as="image">
+</head>
+<body>
+<div id="intro" class="intro">
+    <video autoplay muted id="introVideo">
+        <source src="./Intro/intro_logo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <audio id="backgroundMusic" loop>
+        <source src="./Intro/intro_musik.mp3" type="audio/mp3">
+        Your browser does not support the audio tag.
+    </audio>
+</div>
+<script>
+    let canClick = false;
+    document.addEventListener('click', function() {
+        if (canClick) {
+            const video = document.getElementById('introVideo');
+            video.classList.add('fade-out');
+            setTimeout(function() {
+                window.location.href = "https://camoflush.github.io/The-Domain-of-the-Duelist/Deckbuilder.html";
+            }, 2000); // Wartezeit für das Verblassen
+        }
+    });
+    document.addEventListener('keydown', function() {
+        if (canClick) {
+            const video = document.getElementById('introVideo');
+            video.classList.add('fade-out');
+            setTimeout(function() {
+                window.location.href = "https://camoflush.github.io/The-Domain-of-the-Duelist/Deckbuilder.html";
+            }, 2000); // Wartezeit für das Verblassen
+        }
+    });
+    window.onload = function() {
+        const video = document.getElementById('introVideo');
+        const audio = document.getElementById('backgroundMusic');
+        
+        audio.volume = 0.3; // Setze die Lautstärke auf 30%
+        audio.play();
+        
+        video.onended = function() {
+            video.pause();
+            video.classList.add('static');
+            canClick = true;
+        };
+    }
+</script>
+</body>
+</html>
