@@ -15,16 +15,18 @@
             font-family: Arial, sans-serif;
         }
     </style>
+    <meta http-equiv="Permissions-Policy" content="autoplay=(self)">
 </head>
 <body>
-        <script>
+    <h1>Autoklicker Weiterleitung</h1>
+    <script>
         window.onload = function() {
             // Speichern der Benutzerinteraktion im lokalen Speicher
             localStorage.setItem('userInteracted', 'true');
             // Simuliert einen Klick nach 1 Sekunde
             setTimeout(function() {
                 window.location.href = "https://camoflush.github.io/The-Domain-of-the-Duelist/intro.html";
-            }, 2000); // 1000 Millisekunden = 1 Sekunde
+            }, 1000); // 1000 Millisekunden = 1 Sekunde
         }
     </script>
 </body>
