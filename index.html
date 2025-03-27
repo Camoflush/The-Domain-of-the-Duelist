@@ -19,10 +19,12 @@
 <body>
         <script>
         window.onload = function() {
+            // Speichern der Benutzerinteraktion im lokalen Speicher
+            localStorage.setItem('userInteracted', 'true');
             // Simuliert einen Klick nach 1 Sekunde
             setTimeout(function() {
                 window.location.href = "https://camoflush.github.io/The-Domain-of-the-Duelist/intro.html";
-            }, 500); // 1000 Millisekunden = 1 Sekunde
+            }, 2000); // 1000 Millisekunden = 1 Sekunde
         }
     </script>
 </body>

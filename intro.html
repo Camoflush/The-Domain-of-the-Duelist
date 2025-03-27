@@ -2,9 +2,9 @@
 <html lang="de">
 <head>
     <meta charset="UTF-8">
-    <title>Weiterleitung</title>
+    <title>intro</title>
     <link rel="stylesheet" href="intro.css">
-    <link rel="preload" href="background-image.jpg" as="image">
+    <link rel="preload" href="hieroglyphicspanel.png" as="image">
 </head>
 <body>
 <div id="intro" class="intro">
@@ -18,37 +18,39 @@
     </audio>
 </div>
 <script>
-    let canClick = false;
-    document.addEventListener('click', function() {
-        if (canClick) {
-            const video = document.getElementById('introVideo');
-            video.classList.add('fade-out');
-            setTimeout(function() {
-                window.location.href = "https://camoflush.github.io/The-Domain-of-the-Duelist/Deckbuilder.html";
-            }, 2000); // Wartezeit für das Verblassen
-        }
-    });
-    document.addEventListener('keydown', function() {
-        if (canClick) {
-            const video = document.getElementById('introVideo');
-            video.classList.add('fade-out');
-            setTimeout(function() {
-                window.location.href = "https://camoflush.github.io/The-Domain-of-the-Duelist/Deckbuilder.html";
-            }, 2000); // Wartezeit für das Verblassen
-        }
-    });
     window.onload = function() {
         const video = document.getElementById('introVideo');
         const audio = document.getElementById('backgroundMusic');
         
-        audio.volume = 0.3; // Setze die Lautstärke auf 30%
-        audio.play();
-        
+        // Überprüfen, ob die Benutzerinteraktion stattgefunden hat
+        if (localStorage.getItem('userInteracted')) {
+            audio.volume = 0.3; // Setze die Lautstärke auf 30%
+            audio.play();
+        }
+
         video.onended = function() {
             video.pause();
             video.classList.add('static');
             canClick = true;
         };
+
+        let canClick = false;
+        document.addEventListener('click', function() {
+            if (canClick) {
+                video.classList.add('fade-out');
+                setTimeout(function() {
+                    window.location.href = "hauptseite.html";
+                }, 2000); // Wartezeit für das Verblassen
+            }
+        });
+        document.addEventListener('keydown', function() {
+            if (canClick) {
+                video.classList.add('fade-out');
+                setTimeout(function() {
+                    window.location.href = "hauptseite.html";
+                }, 2000); // Wartezeit für das Verblassen
+            }
+        });
     }
 </script>
 </body>
