@@ -41,7 +41,7 @@ const Field_01 = {
             "types": "Terrain",
             "set": "Terrain01",
             "cardid": "T01-004",
-            "image": "./cards/Terrain1/graveyard.png",
+            "image": "./cards/Terrain1/Graveyard.png",
             "deck": "D",
             "keyword": "Terrain",
             "cardcost": "0",
