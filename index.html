@@ -1,11 +1,62 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-    <meta charset="UTF-8"> 
-    <meta http-equiv="refresh" content="0; url=https://camoflush.github.io/The-Domain-of-the-Duelist//Deckbuilder.html">
+    <meta charset="UTF-8">
     <title>Weiterleitung</title>
+    <link rel="stylesheet" href="intro.css">
 </head>
 <body>
+<div id="intro" class="intro">
+    <video autoplay muted id="introVideo">
+        <source src="./Intro/intro_logo.mp4" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <audio id="backgroundMusic" loop>
+        <source src="./Intro/intro_musik.mp3" type="audio/mp3">
+        Your browser does not support the audio tag.
+    </audio>
+</div>
+<div id="mainContent" class="hidden">
     <p>Falls du nicht automatisch weitergeleitet wirst, <a href="https://camoflush.github.io/The-Domain-of-the-Duelist/Deckbuilder.html">klicke hier</a>.</p>
+</div>
+<script>
+    let canClick = false;
+
+    document.addEventListener('click', function() {
+        if (canClick) {
+            hideIntro();
+        }
+    });
+
+    document.addEventListener('keydown', function() {
+        if (canClick) {
+            hideIntro();
+        }
+    });
+
+    function hideIntro() {
+        document.getElementById('intro').classList.add('hidden');
+        document.getElementById('mainContent').classList.remove('hidden');
+        document.getElementById('mainContent').classList.add('visible');
+        window.location.href = "https://camoflush.github.io/The-Domain-of-the-Duelist/Deckbuilder.html";
+    }
+
+    window.onload = function() {
+        const video = document.getElementById('introVideo');
+        const audio = document.getElementById('backgroundMusic');
+        audio.volume = 0.30; // Setze die Lautstärke auf 50%
+        audio.play();
+        
+        video.onended = function() {
+            video.pause();
+            video.classList.add('static');
+        };
+
+        // Set the time (in milliseconds) after which clicking is allowed
+        setTimeout(function() {
+            canClick = true;
+        }, 6000); // 5000 milliseconds = 5 seconds
+    }
+</script>
 </body>
 </html>
