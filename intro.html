@@ -24,7 +24,7 @@
         
         // Überprüfen, ob die Benutzerinteraktion stattgefunden hat
         if (localStorage.getItem('userInteracted')) {
-            audio.volume = 0.3; // Setze die Lautstärke auf 30%
+            audio.volume = 0.2; // Setze die Lautstärke auf 20%
             audio.play();
         }
 
@@ -38,17 +38,38 @@
         document.addEventListener('click', function() {
             if (canClick) {
                 video.classList.add('fade-out');
+                // Musik leiser werden lassen und gleichzeitig weiterleiten
+                let fadeAudio = setInterval(function() {
+                    if (audio.volume > 0) {
+                        audio.volume -= 0.05;
+                    } else {
+                        clearInterval(fadeAudio);
+                        audio.pause();
+                    }
+                }, 100); // Reduziert die Lautstärke alle 100 Millisekunden
+
                 setTimeout(function() {
                     window.location.href = "https://github.com/Camoflush/The-Domain-of-the-Duelist/Deckbuilder.html";
-                }, 2000); // Wartezeit für das Verblassen
+                }, 2000); // Wartezeit für das Verblassen und Weiterleitung
             }
         });
+
         document.addEventListener('keydown', function() {
             if (canClick) {
                 video.classList.add('fade-out');
+                // Musik leiser werden lassen und gleichzeitig weiterleiten
+                let fadeAudio = setInterval(function() {
+                    if (audio.volume > 0) {
+                        audio.volume -= 0.05;
+                    } else {
+                        clearInterval(fadeAudio);
+                        audio.pause();
+                    }
+                }, 100); // Reduziert die Lautstärke alle 100 Millisekunden
+
                 setTimeout(function() {
                     window.location.href = "https://github.com/Camoflush/The-Domain-of-the-Duelist/Deckbuilder.html";
-                }, 2000); // Wartezeit für das Verblassen
+                }, 2000); // Wartezeit für das Verblassen und Weiterleitung
             }
         });
     }
