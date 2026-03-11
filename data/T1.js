@@ -10,7 +10,7 @@ const Field_01 = {
             "deck": "D",
             "keyword": "Terrain",
             "cardcost": "0",
-            "cardAttribute": "",
+            "cardAttribute": ["Water", "Earth"],
             "restriction": "Unlimited"
         },{
             "name": "Desert",
@@ -23,7 +23,7 @@ const Field_01 = {
             "deck": "D",
             "keyword": "Terrain",
             "cardcost": "0",
-            "cardAttribute": "",
+            "cardAttribute": ["Earth"],
             "restriction": "Unlimited"
         },{
             "name": "Forest",
@@ -36,7 +36,7 @@ const Field_01 = {
             "deck": "D",
             "keyword": "Terrain",
             "cardcost": "0",
-            "cardAttribute": "",
+            "cardAttribute": ["Wilderness"],
             "restriction": "Unlimited"
         },{
             "name": "Graveyard",
@@ -49,7 +49,7 @@ const Field_01 = {
             "deck": "D",
             "keyword": "Terrain",
             "cardcost": "0",
-            "cardAttribute": "",
+            "cardAttribute": ["Neutral"],
             "restriction": "Unlimited"
         },{
             "name": "Jungle",
@@ -62,7 +62,7 @@ const Field_01 = {
             "deck": "D",
             "keyword": "Terrain",
             "cardcost": "0",
-            "cardAttribute": "",
+            "cardAttribute": ["Earth", "Wilderness"],
             "restriction": "Unlimited"
         },{
             "name": "Magma",
@@ -75,7 +75,7 @@ const Field_01 = {
             "deck": "D",
             "keyword": "Terrain",
             "cardcost": "0",
-            "cardAttribute": "",
+            "cardAttribute": ["Earth", "Fire"],
             "restriction": "Unlimited"
         },{
             "name": "Mountain",
@@ -88,7 +88,7 @@ const Field_01 = {
             "deck": "D",
             "keyword": "Terrain",
             "cardcost": "0",
-            "cardAttribute": "",
+            "cardAttribute": ["Wind"],
             "restriction": "Unlimited"
         },{
             "name": "Sanctuary",
@@ -101,7 +101,7 @@ const Field_01 = {
             "deck": "D",
             "keyword": "Terrain",
             "cardcost": "0",
-            "cardAttribute": "",
+            "cardAttribute": ["Light"],
             "restriction": "Unlimited"
         },{
             "name": "Sogen",
@@ -114,7 +114,7 @@ const Field_01 = {
             "deck": "D",
             "keyword": "Terrain",
             "cardcost": "0",
-            "cardAttribute": "",
+            "cardAttribute": ["Earth"],
             "restriction": "Unlimited"
         },{
             "name": "Swamp",
@@ -127,7 +127,7 @@ const Field_01 = {
             "deck": "D",
             "keyword": "Terrain",
             "cardcost": "0",
-            "cardAttribute": "",
+		"cardAttribute": ["Water", "Poison"],
             "restriction": "Unlimited"
         },{
             "name": "Umi",
@@ -140,7 +140,7 @@ const Field_01 = {
             "deck": "D",
             "keyword": "Terrain",
             "cardcost": "0",
-            "cardAttribute": "",
+            "cardAttribute": ["Water"],
             "restriction": "Unlimited"
         },{
             "name": "Volcano",
@@ -153,7 +153,7 @@ const Field_01 = {
             "deck": "D",
             "keyword": "Terrain",
             "cardcost": "0",
-            "cardAttribute": "",
+            "cardAttribute": ["Fire"],
             "restriction": "Unlimited"
         },{
             "name": "Wasteland",
@@ -166,7 +166,7 @@ const Field_01 = {
             "deck": "D",
             "keyword": "Terrain",
             "cardcost": "0",
-            "cardAttribute": "",
+            "cardAttribute": ["Earth"],
             "restriction": "Unlimited"
         },{
             "name": "Yami",
@@ -179,7 +179,7 @@ const Field_01 = {
             "deck": "D",
             "keyword": "Terrain",
             "cardcost": "0",
-            "cardAttribute": "",
+            "cardAttribute": ["Shadow", "Dark"],
             "restriction": "Unlimited"
         },{
             "name": "Arena",
@@ -192,7 +192,7 @@ const Field_01 = {
             "deck": "D",
             "keyword": "Terrain",
             "cardcost": "0",
-            "cardAttribute": "",
+		"cardAttribute": ["Neutral"],
             "restriction": "Unlimited"
         },{
             "name": "crush",
@@ -205,7 +205,7 @@ const Field_01 = {
             "deck": "D",
             "keyword": "Terrain",
             "cardcost": "0",
-            "cardAttribute": "",
+            "cardAttribute": ["Wicked"],
             "restriction": "Unlimited"
         },
 		]
