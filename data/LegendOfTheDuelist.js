@@ -33,7 +33,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/",
       "deck": "B",
       "keyword": "Fly Female",
-  "traits": [],
+  "traits": [],,
       "cardcost": "0",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -532,7 +532,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/ArmoredZombie.jpg",
       "deck": "B",
       "keyword": "Land Regeneration increase",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -555,7 +555,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/AxeRaider.jpg",
       "deck": "A",
       "keyword": "Land Male Equip",
-  "traits": []
+  "traits": [],
       "cardcost": "28",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -578,7 +578,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/B.DinoJungleKing.jpg",
       "deck": "A",
       "keyword": "Land Heavy gain",
-  "traits": []
+  "traits": [],
       "cardcost": "39",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -601,7 +601,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/BabyDragon.jpg",
       "deck": "A",
       "keyword": "Fly Counter(s) ",
-  "traits": []
+  "traits": [],
       "cardcost": "19",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -624,7 +624,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Barox.jpg",
       "deck": "A",
       "keyword": "Land Terrain",
-  "traits": []
+  "traits": [],
       "cardcost": "29",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -647,7 +647,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/BarrelLily.jpg",
       "deck": "A",
       "keyword": "Land Reach inflict burn",
-  "traits": []
+  "traits": [],
       "cardcost": "17",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -670,7 +670,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Basicinsect.jpg",
       "deck": "A",
       "keyword": "Land poisoned",
-  "traits": []
+  "traits": [],
       "cardcost": "12",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -693,7 +693,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/BattleSteer.jpg",
       "deck": "A",
       "keyword": "Land Attribute",
-  "traits": []
+  "traits": [],
       "cardcost": "31",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -716,7 +716,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/BattleWarrior.jpg",
       "deck": "A",
       "keyword": "Land Male attack",
-  "traits": []
+  "traits": [],
       "cardcost": "17",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -787,7 +787,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/BeaverWarrior.jpg",
       "deck": "A",
       "keyword": "Land DEF",
-  "traits": []
+  "traits": [],
       "cardcost": "27",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -811,7 +811,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Berfomet.jpg",
       "deck": "A",
       "keyword": " Fly search ",
-  "traits": []
+  "traits": [],
       "cardcost": "32",
       "cardAttribute": "Illusion",
       "restriction": "Unlimited",
@@ -834,7 +834,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/BigAnt.jpg",
       "deck": "A",
       "keyword": "Land Spell protected",
-  "traits": []
+  "traits": [],
       "cardcost": "27",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -858,7 +858,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/BlackDemonDragon.jpg",
       "deck": "B",
       "keyword": "Fly Reach battlelocked attack",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -897,7 +897,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/BlackLusterSoldier.jpg",
       "deck": "B",
       "keyword": "Land Magicarmor Terrain attack",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -936,7 +936,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/BlackVeloci.jpg",
       "deck": "A",
       "keyword": "Land FirstStrike",
-  "traits": []
+  "traits": [],
       "cardcost": "26",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -959,7 +959,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/BlacklandFireDragon.jpg",
       "deck": "A",
       "keyword": "Fly Terrain",
-  "traits": []
+  "traits": [],
       "cardcost": "28",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -982,7 +982,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/BlastSphere.jpg",
       "deck": "A",
       "keyword": "Heavy Defender inflict damage",
-  "traits": []
+  "traits": [],
       "cardcost": "58",
       "cardAttribute": "Machine",
       "restriction": "Unlimited",
@@ -1005,7 +1005,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/BlazewingButterfly.jpg",
       "deck": "A",
       "keyword": "Fly Destroy",
-  "traits": []
+  "traits": [],
       "cardcost": "40",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -1060,7 +1060,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/BlueNinja.jpg",
       "deck": "A",
       "keyword": "Land Male FLIP destroy",
-  "traits": []
+  "traits": [],
       "cardcost": "6",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -1083,7 +1083,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Blue-EyedSilverZombie.jpg",
       "deck": "A",
       "keyword": "Fly Undead Type",
-  "traits": []
+  "traits": [],
       "cardcost": "16",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -1106,7 +1106,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Blue-EyesUltimateDragon.jpg",
       "deck": "B",
       "keyword": "Fly Reach Crusedproved",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Light",
       "restriction": "Unlimited",
@@ -1129,7 +1129,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Blue-EyesWhiteDragon.jpg",
       "deck": "A",
       "keyword": "Fly Reach Summon",
-  "traits": []
+  "traits": [],
       "cardcost": "55",
       "cardAttribute": "Light",
       "restriction": "Unlimited",
@@ -1152,7 +1152,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Blue-EyesWhiteZombieDragon.jpg",
       "deck": "B",
       "keyword": "Fly Regeneration increase",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -1175,7 +1175,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/BoltEscargot.jpg",
       "deck": "A",
       "keyword": "Land static Reach",
-  "traits": []
+  "traits": [],
       "cardcost": "39",
       "cardAttribute": "Electric",
       "restriction": "Unlimited",
@@ -1198,7 +1198,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/BoltPenguin.jpg",
       "deck": "A",
       "keyword": "Land paralyzed",
-  "traits": []
+  "traits": [],
       "cardcost": "19",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -1237,7 +1237,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/BottomDweller.jpg",
       "deck": "A",
       "keyword": "Aquatic Terrain",
-  "traits": []
+  "traits": [],
       "cardcost": "34",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -1260,7 +1260,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Bracchio-raidus.jpg",
       "deck": "A",
       "keyword": "Land Heavy Summon",
-  "traits": []
+  "traits": [],
       "cardcost": "47",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -1347,7 +1347,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/CandleofFate.jpg",
       "deck": "A",
       "keyword": "Fly Destroy Coin",
-  "traits": []
+  "traits": [],
       "cardcost": "12",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -1370,7 +1370,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/CannonSoldier.jpg",
       "deck": "A",
       "keyword": "Land Heavy inflict",
-  "traits": []
+  "traits": [],
       "cardcost": "32",
       "cardAttribute": "Machine",
       "restriction": "Unlimited",
@@ -1409,7 +1409,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/CastleofDarkening.jpg",
       "deck": "A",
       "keyword": "Search Equip",
-  "traits": []
+  "traits": [],
       "cardcost": "34",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -1448,7 +1448,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/CatapultTurtle.jpg",
       "deck": "A",
       "keyword": "Amphibic Defender inflict destroy",
-  "traits": []
+  "traits": [],
       "cardcost": "35",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -1471,7 +1471,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/CelticGuardian.jpg",
       "deck": "A",
       "keyword": "Land Male destroyed",
-  "traits": []
+  "traits": [],
       "cardcost": "31",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -1494,7 +1494,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Chakra.jpg",
       "deck": "B",
       "keyword": "Hypnosis Summon",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Illusion",
       "restriction": "Unlimited",
@@ -1533,7 +1533,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/ChimeratheFlyingMythicalBeast.jpg",
       "deck": "B",
       "keyword": "Fly",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -1556,7 +1556,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/ClawReacher.jpg",
       "deck": "A",
       "keyword": "Reach",
-  "traits": []
+  "traits": [],
       "cardcost": "18",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -1579,7 +1579,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/CocoonofEvolution.jpg",
       "deck": "A",
       "keyword": "Land Defender Spell Equip Counter",
-  "traits": []
+  "traits": [],
       "cardcost": "20",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -1602,7 +1602,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Copycat.jpg",
       "deck": "A",
       "keyword": "Spell Copy",
-  "traits": []
+  "traits": [],
       "cardcost": "21",
       "cardAttribute": "Illusion",
       "restriction": "Unlimited",
@@ -1625,7 +1625,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Corpse-DevouringDinosaur.jpg",
       "deck": "A",
       "keyword": "Land Eroded",
-  "traits": []
+  "traits": [],
       "cardcost": "28",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -1648,7 +1648,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/CrawlingDragon.jpg",
       "deck": "A",
       "keyword": "Land Terrain",
-  "traits": []
+  "traits": [],
       "cardcost": "30",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -1671,7 +1671,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/CrimsonSunbird.jpg",
       "deck": "B",
       "keyword": "Fly",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -1710,7 +1710,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/CurseofDragon.jpg",
       "deck": "A",
       "keyword": "Fly Attribute",
-  "traits": []
+  "traits": [],
       "cardcost": "35",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -1749,7 +1749,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/CurtainoftheDarkOnes.jpg",
       "deck": "A",
       "keyword": "Fly Search",
-  "traits": []
+  "traits": [],
       "cardcost": "16",
       "cardAttribute": "Illusion",
       "restriction": "Unlimited",
@@ -1772,7 +1772,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/CyberCommander.jpg",
       "deck": "A",
       "keyword": "Land Male Machine gain",
-  "traits": []
+  "traits": [],
       "cardcost": "15",
       "cardAttribute": "Machine",
       "restriction": "Unlimited",
@@ -1811,7 +1811,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DarkBat.jpg",
       "deck": "A",
       "keyword": "Fly Lifelink Undead",
-  "traits": []
+  "traits": [],
       "cardcost": "20",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -1834,7 +1834,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DarkChimera.jpg",
       "deck": "A",
       "keyword": "Fly attach",
-  "traits": []
+  "traits": [],
       "cardcost": "36",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -1873,7 +1873,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DarkGray.jpg",
       "deck": "A",
       "keyword": "Land Petrifie",
-  "traits": []
+  "traits": [],
       "cardcost": "17",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -1896,7 +1896,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DarkMagician.jpg",
       "deck": "A",
       "keyword": "Reach Male Summon",
-  "traits": []
+  "traits": [],
       "cardcost": "46",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -1919,7 +1919,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DarkPlant.jpg",
       "deck": "A",
       "keyword": "Land Terrain Transform Crush",
-  "traits": []
+  "traits": [],
       "cardcost": "12",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -1943,7 +1943,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DarkSage.jpg",
       "deck": "B",
       "keyword": "Fly Magicarmor add search Spell",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -1982,7 +1982,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DarkworldThorns.jpg",
       "deck": "A",
       "keyword": "Land Beast-Warrior Warrior Spellcaster",
-  "traits": []
+  "traits": [],
       "cardcost": "21",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -2021,7 +2021,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DeadShark.jpg",
       "deck": "B",
       "keyword": "Aquatic Regeneration increase",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -2044,7 +2044,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DeepseaShark.jpg",
       "deck": "A",
       "keyword": "Aquatic Hypnotized",
-  "traits": []
+  "traits": [],
       "cardcost": "35",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -2083,7 +2083,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Demon'sMirror.jpg",
       "deck": "B",
       "keyword": "Fly decrease",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -2106,7 +2106,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DestroyerGolem.jpg",
       "deck": "A",
       "keyword": "Land Heavy Plant Dinosaur Insect",
-  "traits": []
+  "traits": [],
       "cardcost": "25",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -2129,7 +2129,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DevilKraken.jpg",
       "deck": "A",
       "keyword": "Aquatic Terrain EQUIP",
-  "traits": []
+  "traits": [],
       "cardcost": "26",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -2152,7 +2152,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DigBeak.jpg",
       "deck": "A",
       "keyword": "Land FirstStrike poisoned",
-  "traits": []
+  "traits": [],
       "cardcost": "13",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -2175,7 +2175,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DjinntheWatcher.jpg",
       "deck": "A",
       "keyword": "Fly Coin move Fieldzone",
-  "traits": []
+  "traits": [],
       "cardcost": "16",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -2198,7 +2198,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DokuroizotheGrim.jpg",
       "deck": "A",
       "keyword": "Land Coin Deathtouch",
-  "traits": []
+  "traits": [],
       "cardcost": "21",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -2222,7 +2222,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DomaTheAngelofSilentDeath.jpg",
       "deck": "A",
       "keyword": "Fly Female Wincon lose",
-  "traits": []
+  "traits": [],
       "cardcost": "35",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -2245,7 +2245,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DoronToken.jpg",
       "deck": "C",
       "keyword": "Land Token",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Neutral",
       "restriction": "Unlimited",
@@ -2268,7 +2268,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Doron.jpg",
       "deck": "A",
       "keyword": "Land Token Copy",
-  "traits": []
+  "traits": [],
       "cardcost": "14",
       "cardAttribute": "Neutral",
       "restriction": "Unlimited",
@@ -2291,7 +2291,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Dorover.jpg",
       "deck": "A",
       "keyword": "Amphibic paralyze",
-  "traits": []
+  "traits": [],
       "cardcost": "17",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -2314,7 +2314,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DragonCaptureJar.jpg",
       "deck": "A",
       "keyword": "Land Trigger Dragon Negate Equip",
-  "traits": []
+  "traits": [],
       "cardcost": "8",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -2369,7 +2369,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DragonSubo.jpg",
       "deck": "A",
       "keyword": "Fly Summon Dragon",
-  "traits": []
+  "traits": [],
       "cardcost": "20",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -2408,7 +2408,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DragonZombie.jpg",
       "deck": "B",
       "keyword": "Land Regeneration increase",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -2431,7 +2431,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DragonesstheWicked.jpg",
       "deck": "A",
       "keyword": "Fly Female Dragon gain",
-  "traits": []
+  "traits": [],
       "cardcost": "21",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -2470,7 +2470,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/DrollBird.jpg",
       "deck": "A",
       "keyword": "Land Flip",
-  "traits": []
+  "traits": [],
       "cardcost": "11",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -2525,7 +2525,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/ElectricLizard.jpg",
       "deck": "A",
       "keyword": "Land Static unaffected",
-  "traits": []
+  "traits": [],
       "cardcost": "17",
       "cardAttribute": "Electric",
       "restriction": "Unlimited",
@@ -2548,7 +2548,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/ElectricSnake.jpg",
       "deck": "A",
       "keyword": "Land Machine increase",
-  "traits": []
+  "traits": [],
       "cardcost": "17",
       "cardAttribute": "Electric",
       "restriction": "Unlimited",
@@ -2603,7 +2603,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/EmbryonicBeast.jpg",
       "deck": "A",
       "keyword": "Defender Transform",
-  "traits": []
+  "traits": [],
       "cardcost": "13",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -2626,7 +2626,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/EnchantingMermaid.jpg",
       "deck": "A",
       "keyword": "Aquatic Female Male",
-  "traits": []
+  "traits": [],
       "cardcost": "21",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -2697,7 +2697,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/ExodiatheForbiddenOne.jpg",
       "deck": "A",
       "keyword": "Land Exodia Wincon",
-  "traits": []
+  "traits": [],
       "cardcost": "25",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -2720,7 +2720,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Eyearmor.jpg",
       "deck": "A",
       "keyword": "Land Male Flip",
-  "traits": []
+  "traits": [],
       "cardcost": "11",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -2759,7 +2759,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Fairy'sGift.jpg",
       "deck": "A",
       "keyword": "Fly Female Light Fairy",
-  "traits": []
+  "traits": [],
       "cardcost": "24",
       "cardAttribute": "Light",
       "restriction": "Unlimited",
@@ -2798,7 +2798,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/FeralImp.jpg",
       "deck": "A",
       "keyword": "Face-down",
-  "traits": []
+  "traits": [],
       "cardcost": "27",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -2821,7 +2821,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/FiendReflection2.jpg",
       "deck": "A",
       "keyword": "Fly flipped",
-  "traits": []
+  "traits": [],
       "cardcost": "25",
       "cardAttribute": "Light",
       "restriction": "Unlimited",
@@ -2844,7 +2844,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Fiend'sHand.jpg",
       "deck": "A",
       "keyword": "Deathtouch",
-  "traits": []
+  "traits": [],
       "cardcost": "12",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -2867,7 +2867,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/FireEye.jpg",
       "deck": "A",
       "keyword": "Fly Hypnotized",
-  "traits": []
+  "traits": [],
       "cardcost": "14",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -2890,7 +2890,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/FireReaper.jpg",
       "deck": "A",
       "keyword": "Land Destroy Earth",
-  "traits": []
+  "traits": [],
       "cardcost": "12",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -2913,7 +2913,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Firegrass.jpg",
       "deck": "A",
       "keyword": "Land Resistance Fire",
-  "traits": []
+  "traits": [],
       "cardcost": "13",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -2937,7 +2937,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Fireyarou.jpg",
       "deck": "A",
       "keyword": "Fly Male Spellcaster",
-  "traits": []
+  "traits": [],
       "cardcost": "23",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -2976,7 +2976,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/FiveGodDragon.jpg",
       "deck": "B",
       "keyword": "Fly Reach Destroy Attribute",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Wicked",
       "restriction": "Unlimited",
@@ -2999,7 +2999,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/FlameCerebrus.jpg",
       "deck": "A",
       "keyword": "Land Petrified",
-  "traits": []
+  "traits": [],
       "cardcost": "39",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -3022,7 +3022,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/FlameSwordsman.jpg",
       "deck": "A",
       "keyword": "Land Male Dinosaur",
-  "traits": []
+  "traits": [],
       "cardcost": "39",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -3045,7 +3045,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/FlameViper.jpg",
       "deck": "A",
       "keyword": "Amphibic Resistance Fire Attribute",
-  "traits": []
+  "traits": [],
       "cardcost": "10",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -3068,7 +3068,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Flesh-EatingPlant.jpg",
       "deck": "A",
       "keyword": "Land Warrior Beast-Warrior Spellcaster",
-  "traits": []
+  "traits": [],
       "cardcost": "14",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -3108,7 +3108,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/FlowerWolf.jpg",
       "deck": "",
       "keyword": "Land poisoned",
-  "traits": []
+  "traits": [],
       "cardcost": "33",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -3163,7 +3163,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/GaiatheDragonKnight.jpg",
       "deck": "B",
       "keyword": "Fly Piercing",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -3186,7 +3186,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/GaiatheFierceKnight.jpg",
       "deck": "A",
       "keyword": "Land Male Attribute",
-  "traits": []
+  "traits": [],
       "cardcost": "44",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -3225,7 +3225,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/GarmaSword.jpg",
       "deck": "B",
       "keyword": "Land Spellcaster attack",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -3248,7 +3248,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Garoozis.jpg",
       "deck": "A",
       "keyword": "Land unaffected Spell",
-  "traits": []
+  "traits": [],
       "cardcost": "33",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -3271,7 +3271,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Garura,WingsofResonantLife.jpg",
       "deck": "B",
       "keyword": "Fly",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -3294,7 +3294,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Garvas.jpg",
       "deck": "B",
       "keyword": "Fly",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -3317,7 +3317,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/GateDeeg.jpg",
       "deck": "A",
       "keyword": "Land Summon damage",
-  "traits": []
+  "traits": [],
       "cardcost": "15",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -3340,7 +3340,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/GazelletheKingofMythicalBeasts.jpg",
       "deck": "A",
       "keyword": "Land Beast-Warrior Terrain",
-  "traits": []
+  "traits": [],
       "cardcost": "17",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -3379,7 +3379,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/GhostKing-Pumpking.jpg",
       "deck": "A",
       "keyword": "Land Undead Zombie ",
-  "traits": []
+  "traits": [],
       "cardcost": "43",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -3402,7 +3402,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/GiantSoldierofStone.jpg",
       "deck": "A",
       "keyword": "Land Heavy Spell Water Terrain",
-  "traits": []
+  "traits": [],
       "cardcost": "38",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -3441,7 +3441,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/GiganticCephalotus.jpg",
       "deck": "A",
       "keyword": "Land Plant Graveyard GY",
-  "traits": []
+  "traits": [],
       "cardcost": "31",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -3464,7 +3464,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Gigaplant.jpg",
       "deck": "A",
       "keyword": "Land Insect Plant Summon Hand Graveyard GY",
-  "traits": []
+  "traits": [],
       "cardcost": "36",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -3503,7 +3503,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Gokibore.jpg",
       "deck": "A",
       "keyword": "Land damage",
-  "traits": []
+  "traits": [],
       "cardcost": "26",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -3526,7 +3526,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Grappler.jpg",
       "deck": "A",
       "keyword": "Land Move Fieldzone Zone",
-  "traits": []
+  "traits": [],
       "cardcost": "25",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -3597,7 +3597,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/GraveyardandtheHandofInvitation.jpg",
       "deck": "A",
       "keyword": "Land Tribute Undead zombie",
-  "traits": []
+  "traits": [],
       "cardcost": "16",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -3620,7 +3620,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/GreatMammothofGoldfine.jpg",
       "deck": "B",
       "keyword": "Land unaffected Spell",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -3643,7 +3643,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/GreatMoth.jpg",
       "deck": "B",
       "keyword": "Fly Alter Timeshifted Poison Counter Fieldzone",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -3666,7 +3666,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/GreatWhiteTerror.jpg",
       "deck": "A",
       "keyword": "Aquatic Water Terrain Destroy Submerged move",
-  "traits": []
+  "traits": [],
       "cardcost": "27",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -3689,7 +3689,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Griffore.jpg",
       "deck": "A",
       "keyword": "Land Warrior",
-  "traits": []
+  "traits": [],
       "cardcost": "26",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -3712,7 +3712,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/GroundAttackerBugroth.jpg",
       "deck": "A",
       "keyword": "Amphibic Water Terrain",
-  "traits": []
+  "traits": [],
       "cardcost": "25",
       "cardAttribute": "Machine",
       "restriction": "Unlimited",
@@ -3767,7 +3767,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Haniwa.jpg",
       "deck": "A",
       "keyword": "Land Tribute Deck",
-  "traits": []
+  "traits": [],
       "cardcost": "10",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -3790,7 +3790,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/HappyLover.jpg",
       "deck": "A",
       "keyword": "Fly Elemental trait",
-  "traits": []
+  "traits": [],
       "cardcost": "13",
       "cardAttribute": "Light",
       "restriction": "Unlimited",
@@ -3813,7 +3813,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/HardArmor.jpg",
       "deck": "A",
       "keyword": "Land EQUIP Warrior",
-  "traits": []
+  "traits": [],
       "cardcost": "15",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -3836,7 +3836,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/HarpieLady.jpg",
       "deck": "A",
       "keyword": "Fly Female equip",
-  "traits": []
+  "traits": [],
       "cardcost": "27",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -3875,7 +3875,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Harpie'sPetDragon.jpg",
       "deck": "A",
       "keyword": "Fly harpie attack",
-  "traits": []
+  "traits": [],
       "cardcost": "45",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -3914,7 +3914,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/HerculesBeetle.jpg",
       "deck": "A",
       "keyword": "Reach Equip negate",
-  "traits": []
+  "traits": [],
       "cardcost": "35",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -3937,7 +3937,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/HinotamaSoul.jpg",
       "deck": "A",
       "keyword": "Fly Tribute inflict",
-  "traits": []
+  "traits": [],
       "cardcost": "11",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -3976,7 +3976,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Hitodenchak.jpg",
       "deck": "A",
       "keyword": "Aquatic Poison Defender toxic Counter",
-  "traits": []
+  "traits": [],
       "cardcost": "18",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -3999,7 +3999,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Hitotsu-MeGiant.jpg",
       "deck": "A",
       "keyword": "Land Male Hypnotize",
-  "traits": []
+  "traits": [],
       "cardcost": "22",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -4022,7 +4022,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Holograh.jpg",
       "deck": "A",
       "keyword": "Heavy Coin negate",
-  "traits": []
+  "traits": [],
       "cardcost": "18",
       "cardAttribute": "Machine",
       "restriction": "Unlimited",
@@ -4045,7 +4045,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/HornImp.jpg",
       "deck": "A",
       "keyword": "Land Dark Terrain",
-  "traits": []
+  "traits": [],
       "cardcost": "23",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -4100,7 +4100,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/HourglassofLife.jpg",
       "deck": "A",
       "keyword": "Fly pay LP Summon",
-  "traits": []
+  "traits": [],
       "cardcost": "13",
       "cardAttribute": "Light",
       "restriction": "Unlimited",
@@ -4139,7 +4139,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Hurricail.jpg",
       "deck": "A",
       "keyword": "Fly move Fieldzone",
-  "traits": []
+  "traits": [],
       "cardcost": "11",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -4226,7 +4226,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/insectQueen.jpg",
       "deck": "A",
       "keyword": "Land Heavy Insect Token",
-  "traits": []
+  "traits": [],
       "cardcost": "51",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -4249,7 +4249,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/InsectSoldiersoftheSky.jpg",
       "deck": "A",
       "keyword": "Fly increase Wind",
-  "traits": []
+  "traits": [],
       "cardcost": "18",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -4336,7 +4336,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/JavelinBeetle.jpg",
       "deck": "B",
       "keyword": "Fly Piercing Armor Dragon",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -4359,7 +4359,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Jellyfish.jpg",
       "deck": "A",
       "keyword": "Aquatic Water Terrain Electric Hidden",
-  "traits": []
+  "traits": [],
       "cardcost": "27",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -4382,7 +4382,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Jinzo.jpg",
       "deck": "A",
       "keyword": "Magicarmor Trap negated",
-  "traits": []
+  "traits": [],
       "cardcost": "49",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -4405,7 +4405,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Job-ChangeMirror.jpg",
       "deck": "A",
       "keyword": "Fly Transform",
-  "traits": []
+  "traits": [],
       "cardcost": "26",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -4428,7 +4428,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/JudgeMan.jpg",
       "deck": "A",
       "keyword": "Land Male destroy ",
-  "traits": []
+  "traits": [],
       "cardcost": "43",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -4451,7 +4451,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/KagemushaoftheblueFlame.jpg",
       "deck": "A",
       "keyword": "Land Male Warrior",
-  "traits": []
+  "traits": [],
       "cardcost": "12",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -4474,7 +4474,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Kageningen.jpg",
       "deck": "A",
       "keyword": "Land Male",
-  "traits": []
+  "traits": [],
       "cardcost": "14",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -4497,7 +4497,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Kairyu-Shin.jpg",
       "deck": "A",
       "keyword": "Aquatic Earth Wilderness Terrain Transform replace",
-  "traits": []
+  "traits": [],
       "cardcost": "38",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -4520,7 +4520,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Kamionwizard.jpg",
       "deck": "A",
       "keyword": "Land Triiger Trap",
-  "traits": []
+  "traits": [],
       "cardcost": "24",
       "cardAttribute": "Illusion",
       "restriction": "Unlimited",
@@ -4543,7 +4543,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/KarbonalaWarrior.jpg",
       "deck": "A",
       "keyword": "Land Male Light Attribute",
-  "traits": []
+  "traits": [],
       "cardcost": "27",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -4566,7 +4566,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Kazejin.jpg",
       "deck": "A",
       "keyword": "Fly Reach StormGuardian negate",
-  "traits": []
+  "traits": [],
       "cardcost": "56",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -4589,7 +4589,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Kentaurus.jpg",
       "deck": "A",
       "keyword": "Land Male",
-  "traits": []
+  "traits": [],
       "cardcost": "29",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -4612,7 +4612,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/KillerNeedle.jpg",
       "deck": "A",
       "keyword": "Fly destroyed",
-  "traits": []
+  "traits": [],
       "cardcost": "22",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -4635,7 +4635,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/KingofYamimakai.jpg",
       "deck": "A",
       "keyword": "Land Terrain Transform Dark",
-  "traits": []
+  "traits": [],
       "cardcost": "40",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -4658,7 +4658,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Kojikocy.jpg",
       "deck": "A",
       "keyword": "Land Male Demon",
-  "traits": []
+  "traits": [],
       "cardcost": "27",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -4681,7 +4681,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Korogashi.jpg",
       "deck": "A",
       "keyword": "Land decrease ",
-  "traits": []
+  "traits": [],
       "cardcost": "10",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -4704,7 +4704,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/KoumoriDragon.jpg",
       "deck": "A",
       "keyword": "Fly",
-  "traits": []
+  "traits": [],
       "cardcost": "27",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -4727,7 +4727,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Krokodilus.jpg",
       "deck": "A",
       "keyword": "Amphibic rearrange deck",
-  "traits": []
+  "traits": [],
       "cardcost": "23",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -4750,7 +4750,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Kumootoko.jpg",
       "deck": "A",
       "keyword": "land Reach battlelocked",
-  "traits": []
+  "traits": [],
       "cardcost": "21",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -4789,7 +4789,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Kurama.jpg",
       "deck": "A",
       "keyword": "Fly draw ",
-  "traits": []
+  "traits": [],
       "cardcost": "16",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -4812,7 +4812,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Kuriboh.jpg",
       "deck": "A",
       "keyword": "damage",
-  "traits": []
+  "traits": [],
       "cardcost": "5",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -4835,7 +4835,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/KwagarHercules.jpg",
       "deck": "A",
       "keyword": "Fly Armor Piercing Aquatic",
-  "traits": []
+  "traits": [],
       "cardcost": "36",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -4858,7 +4858,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/LaJinntheMysticalGenieoftheLamp.jpg",
       "deck": "A",
       "keyword": "Reach ",
-  "traits": []
+  "traits": [],
       "cardcost": "33",
       "cardAttribute": "Illusion",
       "restriction": "Unlimited",
@@ -4881,7 +4881,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/LaLaLi-oon.jpg",
       "deck": "A",
       "keyword": "Fly Static Poison",
-  "traits": []
+  "traits": [],
       "cardcost": "12",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -4904,7 +4904,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/LarvaMoth.jpg",
       "deck": "A",
       "keyword": "Land Alter Summon",
-  "traits": []
+  "traits": [],
       "cardcost": "9",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -4927,7 +4927,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Larvas.jpg",
       "deck": "A",
       "keyword": "Poison",
-  "traits": []
+  "traits": [],
       "cardcost": "18",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -4982,7 +4982,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/LavaBattleguard.jpg",
       "deck": "A",
       "keyword": "Land damage",
-  "traits": []
+  "traits": [],
       "cardcost": "33",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -5005,7 +5005,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/LeftArmoftheForbiddenOne.jpg",
       "deck": "A",
       "keyword": "Land Exodia Wincon",
-  "traits": []
+  "traits": [],
       "cardcost": "5",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -5028,7 +5028,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/LeftLegoftheForbiddenOne.jpg",
       "deck": "A",
       "keyword": "Land Exodia Wincon",
-  "traits": []
+  "traits": [],
       "cardcost": "5",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -5067,7 +5067,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/LesserDragon.jpg",
       "deck": "A",
       "keyword": "Land reduce",
-  "traits": []
+  "traits": [],
       "cardcost": "22",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -5122,7 +5122,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/LonefireBlossom.jpg",
       "deck": "A",
       "keyword": "Land Plant Summon",
-  "traits": []
+  "traits": [],
       "cardcost": "24",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -5145,7 +5145,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/LuckyTrinket.jpg",
       "deck": "A",
       "keyword": "Land Shadow Dark decrease",
-  "traits": []
+  "traits": [],
       "cardcost": "14",
       "cardAttribute": "Light",
       "restriction": "Unlimited",
@@ -5168,7 +5168,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MWarrior1.jpg",
       "deck": "A",
       "keyword": "Land Male Piercing",
-  "traits": []
+  "traits": [],
       "cardcost": "15",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -5191,7 +5191,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MWarrior2.jpg",
       "deck": "A",
       "keyword": "Land Male",
-  "traits": []
+  "traits": [],
       "cardcost": "15",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -5230,7 +5230,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MadSwordBeast.jpg",
       "deck": "A",
       "keyword": "Land Piercing Water unaffected",
-  "traits": []
+  "traits": [],
       "cardcost": "31",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -5269,7 +5269,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MagicKnightGiltia.jpg",
       "deck": "A",
       "keyword": "Land Reach Male",
-  "traits": []
+  "traits": [],
       "cardcost": "33",
       "cardAttribute": "Light",
       "restriction": "Unlimited",
@@ -5292,7 +5292,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MagicLamp.jpg",
       "deck": "A",
       "keyword": "Land Trigger redirect",
-  "traits": []
+  "traits": [],
       "cardcost": "24",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -5315,7 +5315,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MagicianofBlackChaos.jpg",
       "deck": "B",
       "keyword": "Reach Hypnotized Erode",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -5338,7 +5338,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MagicianofFaith.jpg",
       "deck": "A",
       "keyword": "Land Female Flip Spell GY Graveyard",
-  "traits": []
+  "traits": [],
       "cardcost": "12",
       "cardAttribute": "Light",
       "restriction": "Unlimited",
@@ -5377,7 +5377,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MammothGraveyard.jpg",
       "deck": "A",
       "keyword": "Land Polymerization",
-  "traits": []
+  "traits": [],
       "cardcost": "20",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -5400,7 +5400,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/ManEater.jpg",
       "deck": "A",
       "keyword": "Land Flip Destroy Wilderness Terrain",
-  "traits": []
+  "traits": [],
       "cardcost": "14",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -5423,7 +5423,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Man-EaterBug.jpg",
       "deck": "A",
       "keyword": "Land Flip Destroy",
-  "traits": []
+  "traits": [],
       "cardcost": "15",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -5446,7 +5446,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Man-EatingBlackShark.jpg",
       "deck": "A",
       "keyword": "Aquatic Trait",
-  "traits": []
+  "traits": [],
       "cardcost": "34",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -5469,7 +5469,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MasakitheLegendarySwordsman.jpg",
       "deck": "A",
       "keyword": "Land Male Terrain",
-  "traits": []
+  "traits": [],
       "cardcost": "22",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -5492,7 +5492,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Mavelus.jpg",
       "deck": "A",
       "keyword": "Fly Fire Attribute",
-  "traits": []
+  "traits": [],
       "cardcost": "22",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -5516,7 +5516,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MechMoleZombie.jpg",
       "deck": "A",
       "keyword": "Land Flip Change type Undead",
-  "traits": []
+  "traits": [],
       "cardcost": "9",
       "cardAttribute": "Machine",
       "restriction": "Unlimited",
@@ -5539,7 +5539,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MedaBat.jpg",
       "deck": "A",
       "keyword": "Fly Light decrease",
-  "traits": []
+  "traits": [],
       "cardcost": "12",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -5562,7 +5562,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Medusa'sGhost.jpg",
       "deck": "A",
       "keyword": "Land Female Petrified",
-  "traits": []
+  "traits": [],
       "cardcost": "32",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -5585,7 +5585,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Megasaurus.jpg",
       "deck": "A",
       "keyword": "Land Piercing Hidden",
-  "traits": []
+  "traits": [],
       "cardcost": "38",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -5608,7 +5608,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Meotoko.jpg",
       "deck": "A",
       "keyword": "Land look deck",
-  "traits": []
+  "traits": [],
       "cardcost": "13",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -5632,7 +5632,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MetalFlameSwordsman.jpg",
       "deck": "B",
       "keyword": "Land Heavy Magicarmor Dinosaur Beast",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -5656,7 +5656,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MetalGaiatheFierceKnight.jpg",
       "deck": "B",
       "keyword": "Land Magicarmor Piercing Light Attribute",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Machine",
       "restriction": "Unlimited",
@@ -5680,7 +5680,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MetalGuardian.jpg",
       "deck": "A",
       "keyword": "Land Heavy Defender GY Graveyard",
-  "traits": []
+  "traits": [],
       "cardcost": "33",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -5704,7 +5704,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MetalZoa.jpg",
       "deck": "B",
       "keyword": "Land Heavy Magicarmor increase",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Machine",
       "restriction": "Unlimited",
@@ -5744,7 +5744,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Metalzera.jpg",
       "deck": "B",
       "keyword": "Land Heavy Magicarmor Destrucion damage",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -5767,7 +5767,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MeteorBlackDragon.jpg",
       "deck": "B",
       "keyword": "Fly Reach destroyed",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -5790,7 +5790,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MeteorDragon.jpg",
       "deck": "A",
       "keyword": "Fly destroy random monster",
-  "traits": []
+  "traits": [],
       "cardcost": "43",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -5829,7 +5829,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MidnightFiend.jpg",
       "deck": "A",
       "keyword": "Fly Petrified",
-  "traits": []
+  "traits": [],
       "cardcost": "14",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -5852,7 +5852,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MillenniumGolem.jpg",
       "deck": "A",
       "keyword": "Land Heavy draw",
-  "traits": []
+  "traits": [],
       "cardcost": "42",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -5875,7 +5875,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MillenniumShield.jpg",
       "deck": "A",
       "keyword": "Defender increase",
-  "traits": []
+  "traits": [],
       "cardcost": "35",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -5898,7 +5898,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Minocentaur.jpg",
       "deck": "B",
       "keyword": "Land Resistance Fire Piercing",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -5921,7 +5921,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Minotaurus.jpg",
       "deck": "A",
       "keyword": "Land Resistance Fire ",
-  "traits": []
+  "traits": [],
       "cardcost": "27",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -5960,7 +5960,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Misairuzame.jpg",
       "deck": "A",
       "keyword": "Aquatic Reach Machine",
-  "traits": []
+  "traits": [],
       "cardcost": "35",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -5983,7 +5983,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MistWurm.jpg",
       "deck": "B",
       "keyword": "Fly Airborn",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Electric",
       "restriction": "Unlimited",
@@ -6022,7 +6022,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MorphingJar.jpg",
       "deck": "A",
       "keyword": "Land discard draw",
-  "traits": []
+  "traits": [],
       "cardcost": "28",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -6045,7 +6045,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MountainWarrior.jpg",
       "deck": "A",
       "keyword": "Land Male Terrain",
-  "traits": []
+  "traits": [],
       "cardcost": "16",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -6068,7 +6068,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MurderCircusZombie.jpg",
       "deck": "B",
       "keyword": "Land Regeneration increase",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -6091,7 +6091,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MurderCircus.jpg",
       "deck": "A",
       "keyword": "Land Change Posiition",
-  "traits": []
+  "traits": [],
       "cardcost": "28",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -6114,7 +6114,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MysticalCaptureChain.jpg",
       "deck": "A",
       "keyword": "EQUIP Stunned battlelocked Spellbinding",
-  "traits": []
+  "traits": [],
       "cardcost": "24",
       "cardAttribute": "Light",
       "restriction": "Unlimited",
@@ -6137,7 +6137,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/MysticalElf.jpg",
       "deck": "A",
       "keyword": "Crusedproved Female Counter Light increase",
-  "traits": []
+  "traits": [],
       "cardcost": "33",
       "cardAttribute": "Light",
       "restriction": "Unlimited",
@@ -6160,7 +6160,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/NeedleWorm.jpg",
       "deck": "A",
       "keyword": "land Flip Mill",
-  "traits": []
+  "traits": [],
       "cardcost": "28",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -6199,7 +6199,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Nemuriko.jpg",
       "deck": "A",
       "keyword": "Fly Female Warrior battlelocked",
-  "traits": []
+  "traits": [],
       "cardcost": "20",
       "cardAttribute": "Illusion",
       "restriction": "Unlimited",
@@ -6222,7 +6222,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/NightmareScorpion.jpg",
       "deck": "A",
       "keyword": "Land Poison paralyze",
-  "traits": []
+  "traits": [],
       "cardcost": "17",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -6245,7 +6245,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Niwatori.jpg",
       "deck": "A",
       "keyword": "Land Resistance Poison LP increase poisoned",
-  "traits": []
+  "traits": [],
       "cardcost": "17",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -6284,7 +6284,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Number44skypegasus.jpg",
       "deck": "B",
       "keyword": "Fly Number",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Light",
       "restriction": "Unlimited",
@@ -6307,7 +6307,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/ObeseMarmotofNefariousness.jpg",
       "deck": "A",
       "keyword": "Fly increase",
-  "traits": []
+  "traits": [],
       "cardcost": "16",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -6330,7 +6330,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/OgreoftheBlackShadow.jpg",
       "deck": "A",
       "keyword": "Land Piercing Male Attribute Dark",
-  "traits": []
+  "traits": [],
       "cardcost": "26",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -6353,7 +6353,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/One-EyedShieldDragon.jpg",
       "deck": "A",
       "keyword": "Fly EQUIP increase",
-  "traits": []
+  "traits": [],
       "cardcost": "20",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -6376,7 +6376,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/OrgoththeRelentless.jpg",
       "deck": "A",
       "keyword": "Land Male Dice",
-  "traits": []
+  "traits": [],
       "cardcost": "59",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -6415,7 +6415,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/PendulumMachine.jpg",
       "deck": "A",
       "keyword": "Fly Magicarmor inflict damage",
-  "traits": []
+  "traits": [],
       "cardcost": "37",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -6438,7 +6438,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/PerfectlyUltimateGreatMoth.jpg",
       "deck": "B",
       "keyword": "Fly Timeshifted Destroy Poison Counter Terrain",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -6461,7 +6461,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/PetitAngel.jpg",
       "deck": "A",
       "keyword": "Fly search Light Deck",
-  "traits": []
+  "traits": [],
       "cardcost": "15",
       "cardAttribute": "Light",
       "restriction": "Unlimited",
@@ -6484,7 +6484,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/PetitDragon.jpg",
       "deck": "A",
       "keyword": "Fly Summoning Counter",
-  "traits": []
+  "traits": [],
       "cardcost": "13",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -6507,7 +6507,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/PetitMoth.jpg",
       "deck": "A",
       "keyword": "Land Alter Summon Timeshifted",
-  "traits": []
+  "traits": [],
       "cardcost": "5",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -6530,7 +6530,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/PhantomDewan.jpg",
       "deck": "A",
       "keyword": "Fly Stunned Spellbinding battlelocked",
-  "traits": []
+  "traits": [],
       "cardcost": "18",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -6553,7 +6553,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/PhantomGhost.jpg",
       "deck": "A",
       "keyword": "Fly Illusion decrease",
-  "traits": []
+  "traits": [],
       "cardcost": "14",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -6640,7 +6640,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Pragtical.jpg",
       "deck": "B",
       "keyword": "Land FirstStrike Dinosaur",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -6663,7 +6663,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/PredaplantVerteAnaconda.jpg",
       "deck": "B",
       "keyword": "land Poison",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -6686,7 +6686,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/PunishedEagle.jpg",
       "deck": "B",
       "keyword": "Fly",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -6773,7 +6773,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/RareFish.jpg",
       "deck": "A",
       "keyword": "Aquatic Trigger Trap",
-  "traits": []
+  "traits": [],
       "cardcost": "27",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -6796,7 +6796,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/ReaperoftheCards.jpg",
       "deck": "A",
       "keyword": "Fly Destroy Spell Erode",
-  "traits": []
+  "traits": [],
       "cardcost": "38",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -6835,7 +6835,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/RedNinja.jpg",
       "deck": "A",
       "keyword": "Land Male Flip Destroy Trap",
-  "traits": []
+  "traits": [],
       "cardcost": "6",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -6858,7 +6858,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Red-EyesBlackDragon.jpg",
       "deck": "A",
       "keyword": "Fly Reach Summon negated",
-  "traits": []
+  "traits": [],
       "cardcost": "44",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -6881,7 +6881,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Red-EyesBlackZombieDragon.jpg",
       "deck": "A",
       "keyword": "Fly Regeneration increase",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -6905,7 +6905,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Red-EyesMetalDragon.jpg",
       "deck": "B",
       "keyword": "Fly Heavy Equip",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -6992,7 +6992,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/RevovlerDragon.jpg",
       "deck": "A",
       "keyword": "Land Heavy Magicarmor Coin",
-  "traits": []
+  "traits": [],
       "cardcost": "53",
       "cardAttribute": "Machine",
       "restriction": "Unlimited",
@@ -7015,7 +7015,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/RhaimundosoftheRedSword.jpg",
       "deck": "A",
       "keyword": "Land Resistance Fire Earth Terrain",
-  "traits": []
+  "traits": [],
       "cardcost": "25",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -7038,7 +7038,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/RightArmoftheForbiddenOne.jpg",
       "deck": "A",
       "keyword": "Land Exoida Wincon",
-  "traits": []
+  "traits": [],
       "cardcost": "5",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -7061,7 +7061,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/RightLegoftheForbiddenOne.jpg",
       "deck": "A",
       "keyword": "Land Exodia Wincon",
-  "traits": []
+  "traits": [],
       "cardcost": "5",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -7116,7 +7116,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/RockOgreGrotto1.jpg",
       "deck": "A",
       "keyword": "Land Terrain Earth Water",
-  "traits": []
+  "traits": [],
       "cardcost": "20",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -7139,7 +7139,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/RockOgreGrotto2.jpg",
       "deck": "A",
       "keyword": "land Terrain Earth Water",
-  "traits": []
+  "traits": [],
       "cardcost": "21",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -7162,7 +7162,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/RoseSpectreofDunn.jpg",
       "deck": "B",
       "keyword": "Land poison",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -7217,7 +7217,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/RudeKaiser.jpg",
       "deck": "A",
       "keyword": "Land Equip",
-  "traits": []
+  "traits": [],
       "cardcost": "38",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -7240,7 +7240,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Ryu-KishinPowered.jpg",
       "deck": "A",
       "keyword": "Land Petrified",
-  "traits": []
+  "traits": [],
       "cardcost": "28",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -7263,7 +7263,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Ryu-Kishin.jpg",
       "deck": "A",
       "keyword": "Fly Petrified",
-  "traits": []
+  "traits": [],
       "cardcost": "15",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -7286,7 +7286,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SaggitheDarkClown.jpg",
       "deck": "A",
       "keyword": "Piercing damage",
-  "traits": []
+  "traits": [],
       "cardcost": "21",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -7325,7 +7325,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SandStone.jpg",
       "deck": "A",
       "keyword": "Land Hidden Earth Terrain",
-  "traits": []
+  "traits": [],
       "cardcost": "29",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -7348,7 +7348,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Sanga.jpg",
       "deck": "A",
       "keyword": "Reach StormGuardian",
-  "traits": []
+  "traits": [],
       "cardcost": "58",
       "cardAttribute": "Electric",
       "restriction": "Unlimited",
@@ -7371,7 +7371,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Sangan.jpg",
       "deck": "A",
       "keyword": "Land Search",
-  "traits": []
+  "traits": [],
       "cardcost": "16",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -7394,7 +7394,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SectarianofSecrets.jpg",
       "deck": "A",
       "keyword": "decrease",
-  "traits": []
+  "traits": [],
       "cardcost": "13",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -7417,7 +7417,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Seiyaryu.jpg",
       "deck": "A",
       "keyword": "Fly Cursedproved Demon",
-  "traits": []
+  "traits": [],
       "cardcost": "53",
       "cardAttribute": "Light",
       "restriction": "Unlimited",
@@ -7440,7 +7440,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Sengenjin.jpg",
       "deck": "A",
       "keyword": "Land Male Elemental",
-  "traits": []
+  "traits": [],
       "cardcost": "52",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -7463,7 +7463,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SerpentNightDragon.jpg",
       "deck": "A",
       "keyword": "Fly Reach Terrain night Darkness Dark Shadow",
-  "traits": []
+  "traits": [],
       "cardcost": "52",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -7502,7 +7502,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/ShadowGhoul.jpg",
       "deck": "A",
       "keyword": "Land Gy Graveyard increase",
-  "traits": []
+  "traits": [],
       "cardcost": "36",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -7541,7 +7541,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/ShadowSpecter.jpg",
       "deck": "A",
       "keyword": "increase",
-  "traits": []
+  "traits": [],
       "cardcost": "7",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -7596,7 +7596,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SickleKiller.jpg",
       "deck": "A",
       "keyword": "Land Summon Insect",
-  "traits": []
+  "traits": [],
       "cardcost": "26",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -7635,7 +7635,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SilverFang.jpg",
       "deck": "A",
       "keyword": "Land damage",
-  "traits": []
+  "traits": [],
       "cardcost": "20",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -7658,7 +7658,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Skelengel.jpg",
       "deck": "A",
       "keyword": "Fly Flip draw",
-  "traits": []
+  "traits": [],
       "cardcost": "13",
       "cardAttribute": "Light",
       "restriction": "Unlimited",
@@ -7681,7 +7681,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SkullGuardian.jpg",
       "deck": "B",
       "keyword": "Land Light Demon",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Light",
       "restriction": "Unlimited",
@@ -7704,7 +7704,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SkullRedBird.jpg",
       "deck": "A",
       "keyword": "Fly destory Wind",
-  "traits": []
+  "traits": [],
       "cardcost": "28",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -7727,7 +7727,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SkullServant.jpg",
       "deck": "A",
       "keyword": "Land Flip increase",
-  "traits": []
+  "traits": [],
       "cardcost": "5",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -7751,7 +7751,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SkullStalker.jpg",
       "deck": "A",
       "keyword": "Land poisoned",
-  "traits": []
+  "traits": [],
       "cardcost": "17",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -7774,7 +7774,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Skullbird.jpg",
       "deck": "A",
       "keyword": "Fly Piercing unaffected Deathtouch",
-  "traits": []
+  "traits": [],
       "cardcost": "36",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -7797,7 +7797,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SkyDragon.jpg",
       "deck": "A",
       "keyword": "Fly Airborn Earth Land Piercing",
-  "traits": []
+  "traits": [],
       "cardcost": "37",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -7820,7 +7820,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SlotMachine.jpg",
       "deck": "A",
       "keyword": "Land Reach Heavy Magicarmor Dice",
-  "traits": []
+  "traits": [],
       "cardcost": "43",
       "cardAttribute": "Machine",
       "restriction": "Unlimited",
@@ -7843,7 +7843,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Solitude.jpg",
       "deck": "A",
       "keyword": "Land Male stun battlelocked Spellbinding",
-  "traits": []
+  "traits": [],
       "cardcost": "21",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -7930,7 +7930,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SpikeSeadra.jpg",
       "deck": "A",
       "keyword": "Aquatic Resistance Electric Thunder increase",
-  "traits": []
+  "traits": [],
       "cardcost": "39",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -7953,7 +7953,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Spikebot.jpg",
       "deck": "A",
       "keyword": "Land Heavy Magicarmor Machine Piercing",
-  "traits": []
+  "traits": [],
       "cardcost": "35",
       "cardAttribute": "Machine",
       "restriction": "Unlimited",
@@ -7976,7 +7976,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SpiritoftheHarp.jpg",
       "deck": "A",
       "keyword": "Land Female increase",
-  "traits": []
+  "traits": [],
       "cardcost": "28",
       "cardAttribute": "Light",
       "restriction": "Unlimited",
@@ -7999,7 +7999,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SteelScorpion.jpg",
       "deck": "A",
       "keyword": "Land Poison Stun battlelocked Spellbinding destory",
-  "traits": []
+  "traits": [],
       "cardcost": "10",
       "cardAttribute": "Machine",
       "restriction": "Unlimited",
@@ -8038,7 +8038,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/StoneArmadiller.jpg",
       "deck": "A",
       "keyword": "Land Armor Earth Elemental",
-  "traits": []
+  "traits": [],
       "cardcost": "20",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -8078,7 +8078,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SuccubusKnight.jpg",
       "deck": "A",
       "keyword": "Land Female Male Hypnotized",
-  "traits": []
+  "traits": [],
       "cardcost": "39",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -8101,7 +8101,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Suga.jpg",
       "deck": "A",
       "keyword": "Reach StormGuardian Amphibic negate Terrain Water",
-  "traits": []
+  "traits": [],
       "cardcost": "57",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -8124,7 +8124,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SummonedSkull.jpg",
       "deck": "A",
       "keyword": "Reach Electric Dampened GridField",
-  "traits": []
+  "traits": [],
       "cardcost": "47",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -8147,7 +8147,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SuperWar-Lion.jpg",
       "deck": "B",
       "keyword": "Land Deathtouch pay destroyed",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -8170,7 +8170,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SwampBattleguard.jpg",
       "deck": "A",
       "keyword": "Land increase",
-  "traits": []
+  "traits": [],
       "cardcost": "33",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -8193,7 +8193,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SwordHunter.jpg",
       "deck": "A",
       "keyword": "Land Male equip increase",
-  "traits": []
+  "traits": [],
       "cardcost": "46",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -8233,7 +8233,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/SwordStalkerofRevenge.jpg",
       "deck": "A",
       "keyword": "Land increase Gy Graveyard",
-  "traits": []
+  "traits": [],
       "cardcost": "46",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -8272,7 +8272,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Swordsaurus.jpg",
       "deck": "A",
       "keyword": "land Reach Equip Spell return",
-  "traits": []
+  "traits": [],
       "cardcost": "38",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -8295,7 +8295,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Synchar.jpg",
       "deck": "A",
       "keyword": "Land Lifelink Warrior Piercing",
-  "traits": []
+  "traits": [],
       "cardcost": "17",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -8318,7 +8318,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/TerratheTerrible.jpg",
       "deck": "A",
       "keyword": "land Illusion Piercing",
-  "traits": []
+  "traits": [],
       "cardcost": "25",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -8357,7 +8357,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/ThatWhichFeedsonLife.jpg",
       "deck": "A",
       "keyword": "Fly heal",
-  "traits": []
+  "traits": [],
       "cardcost": "22",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -8380,7 +8380,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/The13thGrave.jpg",
       "deck": "A",
       "keyword": "land Curse decrease",
-  "traits": []
+  "traits": [],
       "cardcost": "21",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -8403,7 +8403,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/TheBewitchingPhantom.jpg",
       "deck": "A",
       "keyword": "Land Male Trigger effects",
-  "traits": []
+  "traits": [],
       "cardcost": "14",
       "cardAttribute": "Illusion",
       "restriction": "Unlimited",
@@ -8426,7 +8426,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/TheDrdek.jpg",
       "deck": "A",
       "keyword": "Land Flip change Posiition",
-  "traits": []
+  "traits": [],
       "cardcost": "15",
       "cardAttribute": "Illusion",
       "restriction": "Unlimited",
@@ -8465,7 +8465,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/TheFuriousSeaKing.jpg",
       "deck": "A",
       "keyword": "Aquatic Male Earth Terrain Umi",
-  "traits": []
+  "traits": [],
       "cardcost": "15",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -8504,7 +8504,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/TheMeltingRedShadow.jpg",
       "deck": "A",
       "keyword": "Amphibic FirstStrike poisoned",
-  "traits": []
+  "traits": [],
       "cardcost": "12",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -8527,7 +8527,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/TheShadowWhoControlstheDark.jpg",
       "deck": "A",
       "keyword": "Land Stun battlelocked Spellbinding",
-  "traits": []
+  "traits": [],
       "cardcost": "20",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -8550,7 +8550,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/ThousandDragon.jpg",
       "deck": "B",
       "keyword": "Fly Timeshifted Battle",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -8573,7 +8573,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/ThunderDragon.jpg",
       "deck": "A",
       "keyword": "Fly Discard add search deck",
-  "traits": []
+  "traits": [],
       "cardcost": "31",
       "cardAttribute": "Electric",
       "restriction": "Unlimited",
@@ -8596,7 +8596,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/ThunderKid.jpg",
       "deck": "A",
       "keyword": "Land Static",
-  "traits": []
+  "traits": [],
       "cardcost": "13",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -8619,7 +8619,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/ThunderUnicorn.jpg",
       "deck": "B",
       "keyword": "Land Static",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Electric",
       "restriction": "Unlimited",
@@ -8642,7 +8642,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/TigerAxe.jpg",
       "deck": "A",
       "keyword": "Land Terrain",
-  "traits": []
+  "traits": [],
       "cardcost": "24",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -8665,7 +8665,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/TimeWizard.jpg",
       "deck": "A",
       "keyword": "Magicarmor Coin Timeshifted Alter Summon Destroy Destruction damage",
-  "traits": []
+  "traits": [],
       "cardcost": "14",
       "cardAttribute": "Illusion",
       "restriction": "Unlimited",
@@ -8688,7 +8688,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/TM-1LauncherSpider.jpg",
       "deck": "A",
       "keyword": "Land Reach Heavy Magicarmor Fly",
-  "traits": []
+  "traits": [],
       "cardcost": "52",
       "cardAttribute": "Machine",
       "restriction": "Unlimited",
@@ -8711,7 +8711,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Tomozaurus.jpg",
       "deck": "A",
       "keyword": "Land inflict damage",
-  "traits": []
+  "traits": [],
       "cardcost": "10",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -8734,7 +8734,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Trakadon.jpg",
       "deck": "A",
       "keyword": "land move Fieldzone",
-  "traits": []
+  "traits": [],
       "cardcost": "21",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -8789,7 +8789,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/TrapMaster.jpg",
       "deck": "A",
       "keyword": "Fly Magicarmor Trap destory",
-  "traits": []
+  "traits": [],
       "cardcost": "21",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -8812,7 +8812,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Trent.jpg",
       "deck": "A",
       "keyword": "land Heavy Defender increase",
-  "traits": []
+  "traits": [],
       "cardcost": "33",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -8835,7 +8835,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Tri-HornedDragon.jpg",
       "deck": "B",
       "keyword": "land Cursedproved Fairy Illusion",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -8874,7 +8874,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Twin-HeadedFireDragon.jpg",
       "deck": "A",
       "keyword": "Fly attack",
-  "traits": []
+  "traits": [],
       "cardcost": "39",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -8898,7 +8898,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Twin-HeadedThunderDragon.jpg",
       "deck": "B",
       "keyword": "Fly",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Electric",
       "restriction": "Unlimited",
@@ -8922,7 +8922,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/(Altart)Twin-HeadedThunderDragon.jpg",
       "deck": "B",
       "keyword": "Fly",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Electric",
       "restriction": "Unlimited",
@@ -8945,7 +8945,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Two-HeadedKingRex.jpg",
       "deck": "A",
       "keyword": "Fly attack",
-  "traits": []
+  "traits": [],
       "cardcost": "33",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -8984,7 +8984,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/UltimateInsectCaterpillar.jpg",
       "deck": "B",
       "keyword": "Land Timeshifted reduce",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -9007,7 +9007,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/UltimateInsectIsoptera.jpg",
       "deck": "B",
       "keyword": "Land Armor Timeshifted Piercing",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -9030,7 +9030,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/UltimateInsectLarva.jpg",
       "deck": "A",
       "keyword": "Land Alter Summon Timeshifted",
-  "traits": []
+  "traits": [],
       "cardcost": "3",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -9053,7 +9053,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/UltimateInsectTerror.jpg",
       "deck": "B",
       "keyword": "Fly Deathtouch FirstStrike Timeshifted",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -9076,7 +9076,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/UndeadWarrior.jpg",
       "deck": "A",
       "keyword": "land GY Graveyard",
-  "traits": []
+  "traits": [],
       "cardcost": "21",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -9099,7 +9099,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Uraby.jpg",
       "deck": "A",
       "keyword": "land",
-  "traits": []
+  "traits": [],
       "cardcost": "23",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -9122,7 +9122,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/UshiOni.jpg",
       "deck": "B",
       "keyword": "Piercing",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -9146,7 +9146,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/VermillionSparrow.jpg",
       "deck": "A",
       "keyword": "Male Wilderness damage",
-  "traits": []
+  "traits": [],
       "cardcost": "39",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -9218,7 +9218,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/VioletWitch.jpg",
       "deck": "A",
       "keyword": "land Female add Plant Deck Search",
-  "traits": []
+  "traits": [],
       "cardcost": "23",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -9289,7 +9289,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/WarriorofZera.jpg",
       "deck": "A",
       "keyword": "land Male Hypnotized",
-  "traits": []
+  "traits": [],
       "cardcost": "32",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -9312,7 +9312,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/WeatherReport.jpg",
       "deck": "A",
       "keyword": "land random Fieldzone Water Terrain",
-  "traits": []
+  "traits": [],
       "cardcost": "30",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -9335,7 +9335,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/WingsofWickedFlame.jpg",
       "deck": "A",
       "keyword": "Fly Wilderness Earth Deathtouch",
-  "traits": []
+  "traits": [],
       "cardcost": "13",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -9358,7 +9358,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/WitchoftheBlackForest.jpg",
       "deck": "A",
       "keyword": "land Female Search Deck",
-  "traits": []
+  "traits": [],
       "cardcost": "23",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -9381,7 +9381,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/WittyPhantom.jpg",
       "deck": "A",
       "keyword": "land Male Draw",
-  "traits": []
+  "traits": [],
       "cardcost": "27",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -9404,7 +9404,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/WrathoftheThunderGod.jpg",
       "deck": "A",
       "keyword": "Fly Male Stunned",
-  "traits": []
+  "traits": [],
       "cardcost": "33",
       "cardAttribute": "Electric",
       "restriction": "Unlimited",
@@ -9427,7 +9427,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Yamadron.jpg",
       "deck": "B",
       "keyword": "land Terrain Arena",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Fire",
       "restriction": "Unlimited",
@@ -9450,7 +9450,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/YamatanoDragonScroll.jpg",
       "deck": "A",
       "keyword": "Fly Transform",
-  "traits": []
+  "traits": [],
       "cardcost": "17",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
@@ -9473,7 +9473,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Zanki.jpg",
       "deck": "A",
       "keyword": "Land Male Demon",
-  "traits": []
+  "traits": [],
       "cardcost": "32",
       "cardAttribute": "Earth",
       "restriction": "Unlimited",
@@ -9512,7 +9512,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/ZeratheMant.jpg",
       "deck": "B",
       "keyword": "land Terrain Warrior",
-  "traits": []
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Shadow",
       "restriction": "Unlimited",
@@ -9535,7 +9535,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Zoa.jpg",
       "deck": "A",
       "keyword": "land Demon",
-  "traits": []
+  "traits": [],
       "cardcost": "45",
       "cardAttribute": "Dark",
       "restriction": "Unlimited",
@@ -9558,7 +9558,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Torike.jpg",
       "deck": "A",
       "keyword": "Land destroyed",
-  "traits": []
+  "traits": [],
       "cardcost": "18",
       "cardAttribute": "Wilderness",
       "restriction": "Unlimited",
@@ -9581,7 +9581,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/TripwireBeast.jpg",
       "deck": "A",
       "keyword": "Land Reach Wind increase",
-  "traits": []
+  "traits": [],
       "cardcost": "25",
       "cardAttribute": "Electric",
       "restriction": "Unlimited",
@@ -9604,7 +9604,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/TwinLongRods2.jpg",
       "deck": "A",
       "keyword": "Aquatic Water",
-  "traits": []
+  "traits": [],
       "cardcost": "16",
       "cardAttribute": "Water",
       "restriction": "Unlimited",
@@ -9627,7 +9627,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/Tyhone.jpg",
       "deck": "A",
       "keyword": "Fly Winged-Beast destroy Spell Trap",
-  "traits": []
+  "traits": [],
       "cardcost": "26",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
