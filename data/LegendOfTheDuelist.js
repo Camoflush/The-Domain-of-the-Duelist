@@ -33,7 +33,7 @@ const LegendOfTheDuelist = {
       "image": "./cards/Legendoftheduelist/",
       "deck": "B",
       "keyword": "Fly Female",
-  "traits": [],,
+  "traits": [],
       "cardcost": "0",
       "cardAttribute": "Wind",
       "restriction": "Unlimited",
