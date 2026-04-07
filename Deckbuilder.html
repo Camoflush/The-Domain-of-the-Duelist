@@ -4,7 +4,8 @@
 <head>
 <meta charset="utf-8"/>
 <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<link href="style.css" rel="stylesheet"/>
+<link href="./css/style.css" rel="stylesheet"/>
+<link rel="icon" type="image/png" href="./Intro/Favicon.png">
 <title>The Domain of the Duelist Deckbuilder</title>
 </head>
 <body>
@@ -81,7 +82,9 @@
 <script src="data/T1.js"></script>
 
 <script>
-        // Card and decks limits
+        
+function typesAsText(card){ return Array.isArray(card.types)? card.types.join(' '):(card.types||''); }
+// Card and decks limits
         const CARD_DISPLAY_LIMIT = 500;
         const DECK_LIMITS = {
             A: 60,
@@ -219,7 +222,7 @@
     filteredCards = cardsData.filter(card => {
         return card.name.toLowerCase().includes(nameFilter) &&
             card.keyword.toLowerCase().includes(keywordFilter) &&
-            card.types.toLowerCase().includes(typeFilter) &&
+            typesAsText(card).toLowerCase().includes(typeFilter) &&
             card.cardcost.toLowerCase().includes(deckcostFilter) &&
             (!setFilterValue || card.set === setFilterValue) &&
             (!frameFilterValue || card.frame === frameFilterValue) &&
@@ -263,7 +266,7 @@ function renderCards() {
       <img src="${card.image}" alt="${card.name}">
       <div class="card-info">
         <span class="card-title">${card.name}</span></br>
-        <span class="card-details">${card.types}<br/>${card.cardid}<br/>
+        <span class="card-details">${typesAsText(card)}<br/>${card.cardid}<br/>
         <div class="cost-container">
 				<img src="./cards/DC_icon.png" alt="Cost Icon" class="cost-icon">
           <span class="cost-value">${card.cardcost}</span>
@@ -374,7 +377,7 @@ function renderDeck() {
       return a.card.deck.localeCompare(b.card.deck);
     }
     if (a.card.types !== b.card.types) {
-      return a.card.types.localeCompare(b.card.types);
+      return (typesAsText(a.card)).localeCompare(typesAsText(b.card));
     }
     return a.card.name.localeCompare(b.card.name);
   });
@@ -535,7 +538,7 @@ function renderDeck() {
 
                 // If decks are the same, then sort by card type
                 if (a.types !== b.types) {
-                    return a.types.localeCompare(b.types);
+                    return (typesAsText(a)).localeCompare(typesAsText(b));
                 }
 
                 // If card types are also the same, sort by name

@@ -1,0 +1,364 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background: url('./hieroglyphicspanel.png') no-repeat center center fixed;
+    background-size: cover;
+}
+.container {
+    display: flex;
+    gap: 20px;
+    max-width: 1600px;
+    margin: 0 auto;
+	background-color: rgba(255, 255, 255, 0.2);
+}
+.cards-container {
+    flex: 2;
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+	background-color: rgba(255, 255, 255, 0.5);
+}
+.deck-container {
+    flex: 1;
+    background: white;
+    padding: 0px 20px 20px 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    /*max-height: 80vh;*/
+    overflow-y: auto;
+	background-color: rgba(255, 255, 255, 0.5);
+}
+.deck-container .deckbuilder-image {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+    border-radius: 8px;
+	object-fit: contain;
+}
+.filters {
+    margin-bottom: 20px;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 10px;
+	background-color: rgba(255, 255, 255, 0.5);
+}
+.filters input { 
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 90%;
+	
+}
+.filters select {
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    width: 96%;
+	
+}
+.card-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    gap: 15px;
+	
+}
+.card {
+    border: 2px solid rgba(0, 0, 0, 0.4);
+    border-radius: 8px;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    transition: transform 0.2s;
+	
+}
+.card:hover {
+    transform: scale(1.05);
+}
+.card img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
+}
+.card-info {
+    margin-top: 8px;
+}
+.card-info .card-title {
+    font-style: normal;
+    font-size: 1.1em;
+}
+.card-info .card-details {
+    margin-top: 1px;
+    font-style: Aptos;
+    font-size: 1.em;
+}
+.cost-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 5px;
+}
+
+.cost-container .cost-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+}
+
+.cost-container .cost-value {
+  margin-left: 5px;
+}
+.deck-cost {
+  margin-top: 5px;
+  padding: 5px;
+  background-color: rgba(255,255,255,0.5);
+  border-radius: 2px;
+  font-weight: bold;
+  color: #333;
+}
+.deck-cost .cost-icon {
+  width: 15px;
+  height: 15px;
+  margin-right: 2px;
+}
+.deck-card {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 4px;
+    border-bottom: 1px solid #ddd;
+}
+.deck-section {
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #f8f8f8;
+    border-radius: 4px;
+}
+.deck-section h4 {
+    margin-top: 0;
+    color: #333;
+}
+.deck-card img {
+    width: 35px;
+    height: auto;
+}
+.button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+.button:hover {
+    background-color: #45a049;
+}
+.deck-status {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #e8e8e8;
+    border-radius: 4px;
+}
+.error {
+    color: red;
+    margin-top: 5px;
+}
+.preview-container {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.8);
+    display: none;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+}
+.preview-content {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    max-width: 70%;
+    max-height: 96%;
+    overflow: auto;
+}
+.preview-grid {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    gap: 3px;
+}
+.preview-card img {
+    width: 88%;
+    height: auto;
+}
+.close-preview {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    color: white;
+    font-size: 24px;
+    cursor: pointer;
+}
+.import-export {
+    margin-top: 10px;
+    padding: 10px;
+    background-color: #f8f8f8;
+    border-radius: 4px;
+}
+.import-export input[type="file"] {
+    margin-bottom: 10px;
+}
+.version-text {
+    float: right;
+    font-style: italic;
+    font-size: 0.5em;
+    color: #666;
+    margin-right: 10px;
+}
+
+.button-alt {
+    background-color: #49c1e6;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+.button-alt:hover {
+    background-color: #34acd1;
+}
+
+.button-warning {
+    background-color: #e66849;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+.button-warning:hover {
+    background-color: #cf4e2e;
+}
+
+.card-popup {
+    position: absolute;
+    transform: translate(-50%, -20%);
+    background: rgba(0, 0, 0, 0.9);
+    padding: 20px;
+    border-radius: 8px;
+    z-index: 1100;
+    display: none;
+    /*
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 1000;
+    background: rgba(0, 0, 0, 0.9);
+    border-radius: 8px;
+    padding: 20px;
+    display: none;
+    max-height: 1100px;
+    text-align: center;*/
+}
+
+.card-popup img {
+    max-height: 650px;
+    width: auto;
+    height: auto;
+    /*max-height: 80vh;
+    max-width: 80vw;*/
+}
+
+.button-group {
+    display: flex;
+    gap: 5px;
+    flex-wrap: wrap;
+}
+
+#limitMessage {
+    color: #b9b9b9;
+    font-size: 0.8em;
+    font-style: italic;
+    text-align: center;
+    margin-top: 20px;
+    display: none;
+}
+
+#importError {
+    color: red;
+    margin-top: 5px;
+    display: none;
+}
+
+#fileInput {
+    display: none;
+}
+
+.tooltip-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .question-icon {
+    width: 20px;
+    height: 20px;
+    background-color: #6b7280;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: help;
+    font-size: 14px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .tooltip {
+    visibility: hidden;
+    position: absolute;
+    bottom: calc(100% + 10px);
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #333;
+    color: white;
+    padding: 8px 12px;
+    border-radius: 4px;
+    font-size: 14px;
+    width: 250px;
+    max-width: 250px;
+    word-wrap: break-word;
+    text-align: left;
+    line-height: 1.4;
+    z-index: 9999;
+    opacity: 0;
+    transition: opacity 0.3s;
+    pointer-events: none;
+  }
+  
+  .tooltip::after {
+    content: "";
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    margin-left: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: #333 transparent transparent transparent;
+  }
+  
+  .tooltip-container:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+  }
+  
