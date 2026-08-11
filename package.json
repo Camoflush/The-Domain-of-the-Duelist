@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "The Domain of the Duelist card game project",
   "scripts": {
+    "dev": "npx serve . -p 3000",
     "normalize": "node tools/normalize-card-assets.js",
     "normalize:dry": "node tools/normalize-card-assets.js --dry"
   },
