@@ -1,0 +1,12 @@
+{
+  "name": "the-domain-of-the-duelist",
+  "version": "1.0.0",
+  "description": "The Domain of the Duelist card game project",
+  "scripts": {
+    "normalize": "node tools/normalize-card-assets.js",
+    "normalize:dry": "node tools/normalize-card-assets.js --dry"
+  },
+  "dependencies": {
+    "glob": "^10.4.5"
+  }
+}
